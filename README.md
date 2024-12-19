@@ -13,6 +13,5 @@
 4. The game announces when you've achieved Bingo!
 
 ## How to Compile and Run
-1. Clone this repository to your local machine:
-   ```bash
-   git clone https://github.com/your-username/Bingo-Game.git
+The c++ code can be found on the following link:
+https://github.com/Saadia-Asghar/Bingo-Game.git
